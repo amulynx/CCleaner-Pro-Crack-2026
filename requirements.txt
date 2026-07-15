@@ -1,0 +1,6 @@
+numpy
+psutil
+requests
+opencv-python
+Pillow
+pynput
